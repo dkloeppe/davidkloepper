@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Welcome to my new website! This site was built using Jekyll with al-folio theme and is hosted by GitHub Pages.  Thank you for checking it out!
+Welcome to DavidKloepper.com! This site was built using Jekyll with al-folio theme and is hosted by GitHub Pages.  Thank you for checking it out!
 
 ---
 
