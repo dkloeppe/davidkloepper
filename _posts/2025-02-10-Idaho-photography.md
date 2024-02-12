@@ -5,7 +5,7 @@ date: 2024-02-10 11:46:00
 description: Photography of Boise, Idaho and surrounding cities and rivers
 tags: rivers cities
 categories: photography
-thumbnail: assets/img/cities/nampa-01-thumbnail.jpg
+thumbnail: /assets/img/cities/nampa-01-small.jpg
 images:
   compare: true
   slider: true
