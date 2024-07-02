@@ -1,36 +1,91 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: David Kloepper
+    - name: email
+      value: <a href="mailto:dk@davidkloepper.com">dk@davidkloepper.com</a>
+    - name: website
+      value: <a href="https://www.davidkloepper.com">davidkloepper.com</a>
+
+- title: Professional Summary
+  type: map
+  contents: 
+    - name: Introduction
+      value: I am a working professional with over 8 years of experience in research and development and logistics. My diverse background in agricultural science and computer science, coupled with my hands-on experience in various roles, has equipped me with a unique skill set that allows me to solve a wide range of problems.
+    - name: Education
+      value: My academic journey began at California Polytechnic State University, San Luis Obispo, where I earned a B.S. in Agricultural Science. My studies were complemented by a minor in Agribusiness and a concentration in Agricultural Supplies and Services, providing me with a solid foundation in both the scientific and business aspects of agriculture. Recognizing the growing importance of technology in all fields, I pursued additional coursework in Computer Science at Boise State University. This has expanded my capabilities and opened up new avenues for integrating technology into my professional endeavors.
+    - name: Skills
+      value: Throughout my career, I have developed a broad range of skills that span data analysis, software development, and productivity tools. I am proficient in ARM, JMP, and R for comprehensive data analysis and research. My programming and web development experience includes HTML, CSS, Javascript, Node.js, C, Java, and Python, enabling me to create robust applications and websites. I am skilled in using Visual Studio Code and git for efficient software development and version control. As an advanced user of the MS Office Suite, I can effectively manage projects and documentation. Additionally, I am proficient in recording and editing multimedia content using tools like OBS, Audacity, OpenShot Video Editor, KDenLive Video Editor, and GIMP.
+    - name: Conclusion
+      value: My career path reflects a blend of scientific inquiry, technical proficiency, and practical logistics. I am passionate about leveraging my diverse skills and experiences to contribute to innovative solutions. As I continue to grow professionally, I remain committed to integrating cutting-edge technology with traditional practices to drive progress and efficiency in my field.
 
 - title: Education
   type: time_table
   contents:
+    - title: Computer Science
+      institution: Boise State University
+      year: 2021
+      description:
+        - Completed courses in pursuit of a second B.S.
     - title: B.S. in Agricultural Science
-      institution: California State Polytechnic University, San Luis Obispo
-      year: 2014
+      institution: California Polytechnic State University, SLO
+      year: 2009-2014
       description:
         - Minor in Agribusiness
-        - Concentration in Agricultural Supplies and Services.
+        - Concentration in Agricultural Supplies and Services
 
 - title: Experience
   type: time_table
   contents:
-    - title: Data Entry Tech
-      institution: Pacific Ag Research
+    - title: Fulfillment Center Associate
+      year: 2022 - PRESENT
+      description:
+        - Trained dozens of new hires to work safely and efficiently in a large warehouse environment
+        - Cross-trained associates in additional process paths to maximize productivity
+        - Regularly receive documented positive feedback for performance, quality, and safety
+        - Completed the supplemental training which equipped me to troubleshoot problems with fulfillment center equipment
+        - Participated in Data Analytics training by Correlation One which expanded my skills in Excel, SQL, and Python
+    - title: Regulatory Compliance Assistant
+      year: 2018 - 2020
+      description:
+        - Submitted pesticide research authorizations to CDPR for agricultural product development trials
+        - Communicated with County Ag Commissioners regarding notices of intent and experimental trial reports
+        - Took pictures of research trials using DJI Phantom 4 Pro drone with RGB and NDVI cameras
+        - Provided general support to the reporting team by performing data entry and generating reports
+        - Maintained safety stations (first aid, eye wash, and shower), fire extinguishers, and posted safety boards
+    - title: Research Station Administrative Assistant
+      year: 2016 - 2017
+      description:
+        - Worked with research assistants to pack and ship envelopes of vegetable seeds worldwide
+        - Prepared customs invoices, packing lists, and certificates of origin for shipments of vegetable seeds
+        - Purchased shipping waybills daily and drove packages to Fedex/UPS/DHL drop offs or scheduled pickups
+        - Obtained Phytosanitary Certificates from Yolo County Weights & Measures for shipments
+        - Organized monthly safety meetings for 100+ employees, and scheduled guest visits and tours
+    - title: Research Analyst Assistant
       year: 2014 - 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Performed data entry and interacted with clients regarding data updates and trial status
+        - Generated MS Word and Excel reports for research and development trials
+        - Analyzed trial data using JMP11 and ARM statistical software packages
+        - Maintained weather stations with monthly data collections
+        - Maintained the company website, and prepared newsletters and marketing documents
 
 - title: Projects
   type: time_table
   contents:
     - title: <a href="https://www.youtube.com/channel/UCZbcuQyXHt0BtUqhAQ2c2QQ">@SurvivorDK YouTube Channel</a>
-      year: 2023-now
+      year: 2023 - Present
       description: A gaming YouTube channel.
+
+- title: Skills
+  type: map
+  contents: 
+    - name: Programming
+      value: C, Java, Python, HTML, CSS, Javascript, Node.js
+    - name: Statistics
+      value: R, SAS, MiniTab, JMP, ARM (by GDM)
+    - name: Software
+      value: MS Office Suite, Google Docs, Looker Studio, Tableau, Visual Studio Code, git
+    - name: Recording/Editing
+      value: OBS, Audacity, OpenShot Video Editor, KDenLive, GIMP
